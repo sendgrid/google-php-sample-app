@@ -24,12 +24,12 @@ Configure `index.php` file with your information:
 
 Update the *&lt;sendgrid_username&gt;* and *&lt;sendgrid_password&gt;* with your SendGrid credentials.
 ```php
-    $sendgrid_username = '&lt;sendgrid_username&gt;';
-    $sendgrid_password = '&lt;sendgrid_password&gt;';
+    $sendgrid_username = '<sendgrid_username>';
+    $sendgrid_password = '<sendgrid_password>';
 ```
 Update the *&lt;from_address&gt;* with your email address
 ```php
-    $from_email = "&lt;from_address&gt;";
+    $from_email = "<from_address>";
 ```
 Update application identifier in `app.yaml` file
 ```yaml
