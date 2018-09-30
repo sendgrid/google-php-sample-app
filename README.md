@@ -18,7 +18,7 @@ Clone SendGrid application on your local machine
     git clone https://github.com/sendgrid/google-php-sample-app
 </pre>
 
-###Configuration###
+### Configuration
 
 Configure `index.php` file with your information:
 
