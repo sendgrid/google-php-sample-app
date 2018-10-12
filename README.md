@@ -7,7 +7,7 @@ This git repository helps you to send emails quickly and easily through SendGrid
 Running on Google App Engine
 ----------------------------
 
-Create an SendGrid account at http://sendgrid.com/pricing.html
+Create an SendGrid account at https://signup.sendgrid.com/
 
 Create an account at https://appengine.google.com/ and set up your local machine with the client tools https://developers.google.com/appengine/docs/php/gettingstarted/installing
 
@@ -18,7 +18,7 @@ Clone SendGrid application on your local machine
     git clone https://github.com/sendgrid/google-php-sample-app
 </pre>
 
-###Configuration###
+### Configuration
 
 Configure `index.php` file with your information:
 
